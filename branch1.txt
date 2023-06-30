@@ -1,1 +1,3 @@
 texto de teste para nova branch.
+
+Fazendo uma alteração na branch 1.
